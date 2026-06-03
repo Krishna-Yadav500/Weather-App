@@ -1,0 +1,3 @@
+# External API: OpenWeatherMap (Requires an API key)
+# Frontend: No library dependencies (Vanilla JS/CSS)
+# Assets: Font Awesome 7.0.0 (CDN provided in index.html)
